@@ -38,7 +38,7 @@
 </template>
 <script>
 export default {
-    
+     layout:'adminsidebar',
 }
 </script>
 <style scoped>

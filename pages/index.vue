@@ -52,6 +52,7 @@
 
 
 export default {
+   layout:'adminsidebar',
   layout:'login',
   data()
   {

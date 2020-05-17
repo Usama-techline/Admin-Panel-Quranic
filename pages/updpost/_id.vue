@@ -70,6 +70,7 @@
 </template>
 <script>
 export default {
+   layout:'adminsidebar',
      validate ({ params }) {
     // Must be a number
     return /^\d+$/.test(params.id)

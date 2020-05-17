@@ -25,6 +25,7 @@
 <script>
 import cardview from '../components/card.vue'
  export default {
+    layout:'adminsidebar',
    components:{cardview},
     data() {
       return {
